@@ -1,9 +1,9 @@
-# Interest Rate Modeling 
-## By Leif Andersen and Vladimir Piterbarg
+<!--# Interest Rate Modeling 
+## By Leif Andersen and Vladimir Piterbarg-->
+
+This is a companion site to our three-volume set of books "Interest Rate Modeling". Below you will find  some useful links and  resources. If you do not find what you are looking for, please contact [us](mailto:authors@andersen-piterbarg-book.com)
 
 ![](./images/Covers_Black_v1.jpg)
-
-This is a companion site to our three-volume set of books "Interest Rate Modeling"
 
 ## Buying the books
 The books are widely available in online bookstores, for example
