@@ -10,15 +10,15 @@ The books are widely available in online bookstores, for example
 * [Volume 1 on Amazon.co.uk](https://www.amazon.co.uk/dp/0984422102)
 
 ## Contacting us
-We welcome typo reports and general questions about the books at authors@andersen-piterbarg-book.com
+We welcome typo reports and general questions about the books via [email](mailto:authors@andersen-piterbarg-book.com)
 
 ## Errata
-A list of typos and errors can be found [here](./media/TypoReport.xls). Fixes for the first printing that did not fit in the typo report are here:
+A list of typos and errors can be found [here](./media/TypoReport.xls). Fixes for the first printing that are too long for the typo report are here:
 * [Proposition 4.5.2](./media/Prop_4_5_2_Fixed.pdf)
 * [Proposition 7.6.6](./media/Proposition766Fixed.pdf)
 * [Page 401](./media/p401-fixed.pdf)
 
-## Other useful files
+## Other resources
 * [Preface](./media/preface-20100817.pdf)
 * [Table of contents](./media/toc-20100817.pdf)
 * [Notations](./media/Notations.pdf)
@@ -26,10 +26,10 @@ A list of typos and errors can be found [here](./media/TypoReport.xls). Fixes fo
 * [Index](./media/index_20100806.pdf)
 
 ## FAQ
-* When is the second edition coming?
+* __When is the second edition coming?__
     * There are no plans currently for the second edition
-* Is there an electronic version I can buy?
-    * No
+* __Is there an electronic version I can buy?__
+    * No, sorry
 
 
 ## Other links
