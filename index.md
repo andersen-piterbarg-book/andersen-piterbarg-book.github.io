@@ -38,3 +38,10 @@ A list of typos and errors can be found [here](./media/TypoReport.xls). Fixes fo
 
 ## Other books by Atlantic Financial Press
 * [Twenty Lectures About Gaussian Processes](https://www.amazon.co.uk/dp/B01HC9HFTU/ref=cm_sw_em_r_mt_dp_ynJDFbMGEHZJP)
+
+## Amazing books we had (almost) nothing to do with
+* [All books by Sarah Andersen](https://www.amazon.com/Sarah-Andersen/e/B00MS4Z0II?ref=sr_ntt_srch_lnk_1&qid=1602190849&sr=1-1)
+* [Fangs](https://www.amazon.com/dp/1524860670?tag=NYTBSREV-20&tag=NYTBS-20) by Sarah Andersen makes NYTimes bestselling [list](https://www.nytimes.com/books/best-sellers/graphic-books-and-manga/)
+
+
+
